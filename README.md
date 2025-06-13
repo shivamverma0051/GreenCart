@@ -99,8 +99,7 @@ Product-list on seller dashboard
 ![Screenshot 2025-06-13 152811](https://github.com/user-attachments/assets/dfa19388-ed64-4b56-8392-a84b4d59bbc7)
 
 Orders
-![Screenshot 2025-06-13 152823](https://github.com/user-attachments/assets/6e68938b-2002-4e1b-9663-ff5516804a57)
-
+![Screenshot 2025-06-13 235329](https://github.com/user-attachments/assets/87120315-b607-4c3a-b420-75291c6e4d1c)
 
 
 
