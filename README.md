@@ -61,3 +61,43 @@ Razorpay: Payment gateway for accepting online payments securely.
 Database
 
 MongoDB Atlas: Cloud-hosted version of MongoDB with automatic scaling and backups.
+
+Browse Categories and best seller - 
+![Screenshot 2025-06-13 152136](https://github.com/user-attachments/assets/9fa23c54-ac22-4d34-a7e8-aa83e2583d78)
+
+Browse All products - 
+![Screenshot 2025-06-13 152246](https://github.com/user-attachments/assets/5c99e38b-2ea5-4013-9f33-224b238345aa)
+
+Login Pages
+![Screenshot 2025-06-13 152320](https://github.com/user-attachments/assets/864c02a3-11b6-485c-82c4-0187c32bb02b)
+
+New registration page
+![Screenshot 2025-06-13 152402](https://github.com/user-attachments/assets/846342b3-e320-4794-b22e-f03b0fa02538)
+
+Product-description
+![Screenshot 2025-06-13 152438](https://github.com/user-attachments/assets/744d4d35-c131-471c-b62e-2187d53de578)
+
+Cart
+![Screenshot 2025-06-13 152450](https://github.com/user-attachments/assets/fd31aac1-9c67-48b2-b825-10905dcc7874)
+
+Add-Address page
+![Screenshot 2025-06-13 152507](https://github.com/user-attachments/assets/7020f387-c2a4-4c86-94e4-e5863fd1de08)
+
+Stripe-online payment
+![Screenshot 2025-06-13 152551](https://github.com/user-attachments/assets/011cb907-d3b0-4b79-ab1a-b6b079f31bfd)
+
+Online-pament processing
+![Screenshot 2025-06-13 152602](https://github.com/user-attachments/assets/ecb3e80a-6644-4642-87d0-66b1d08edf0b)
+
+After order placcing
+![Screenshot 2025-06-13 152612](https://github.com/user-attachments/assets/4bdd9bd4-d9bb-444e-b5ad-4ed1ca2fc854)
+
+Seller-dashboard
+![Screenshot 2025-06-13 152801](https://github.com/user-attachments/assets/80b1a377-513e-40c7-a1c2-b8513fbd4195)
+
+Product-list on seller dashboard
+![Screenshot 2025-06-13 152811](https://github.com/user-attachments/assets/dfa19388-ed64-4b56-8392-a84b4d59bbc7)
+
+Orders
+![Screenshot 2025-06-13 152823](https://github.com/user-attachments/assets/6e68938b-2002-4e1b-9663-ff5516804a57)
+
