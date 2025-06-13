@@ -80,6 +80,9 @@ Product-description
 Cart
 ![Screenshot 2025-06-13 152450](https://github.com/user-attachments/assets/fd31aac1-9c67-48b2-b825-10905dcc7874)
 
+Cart with online payment
+![Screenshot 2025-06-13 235752](https://github.com/user-attachments/assets/09c860a8-4d09-44a2-b256-9edcf4bfe73d)
+
 Add-Address page
 ![Screenshot 2025-06-13 152507](https://github.com/user-attachments/assets/7020f387-c2a4-4c86-94e4-e5863fd1de08)
 
@@ -100,6 +103,7 @@ Product-list on seller dashboard
 
 Orders
 ![Screenshot 2025-06-13 235329](https://github.com/user-attachments/assets/87120315-b607-4c3a-b420-75291c6e4d1c)
+
 
 
 
