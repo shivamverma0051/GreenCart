@@ -9,7 +9,6 @@ This project combines e-commerce functionality with a scalable architecture, mak
 ✨ **Features — GreenCart Grocery Delivery App** 
 
 **👤 Secure User Authentication**
-
 Users can register and log in using JWT-based authentication to access personalized content securely.
 
 **🛒 Smart Shopping Experience**
