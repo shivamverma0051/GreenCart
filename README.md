@@ -90,7 +90,7 @@ Online-pament processing
 ![Screenshot 2025-06-13 152602](https://github.com/user-attachments/assets/ecb3e80a-6644-4642-87d0-66b1d08edf0b)
 
 After order placcing
-![Screenshot 2025-06-13 152612](https://github.com/user-attachments/assets/4bdd9bd4-d9bb-444e-b5ad-4ed1ca2fc854)
+![Screenshot 2025-06-13 233158](https://github.com/user-attachments/assets/f4c5de80-6ce0-49e5-98ac-df94a60c5c67)
 
 Seller-dashboard
 ![Screenshot 2025-06-13 152801](https://github.com/user-attachments/assets/80b1a377-513e-40c7-a1c2-b8513fbd4195)
@@ -100,4 +100,6 @@ Product-list on seller dashboard
 
 Orders
 ![Screenshot 2025-06-13 152823](https://github.com/user-attachments/assets/6e68938b-2002-4e1b-9663-ff5516804a57)
+
+
 
