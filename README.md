@@ -1,66 +1,84 @@
 🚀 Project Description
 
-GreenCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) web application designed to simplify task and project management for small to mid-sized teams. It allows users to create, manage, and track tasks with real-time updates, ensuring seamless collaboration and enhanced productivity. The platform also supports a seller dashboard and integrates secure online payments, making it ideal for e-commerce use cases.
+GreenCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) web application built to streamline the grocery shopping experience for users. It features a user-friendly interface for browsing products, managing a shopping cart, and placing orders with integrated secure online payments via Stripe.
 
-✨ Features - 
+The app also includes a robust seller/admin dashboard that enables admins to upload items, manage price and stock availability, monitor order history, and respond to customer needs efficiently. Real-time features and webhook integration ensure smooth transaction tracking and payment verification.
 
-Secure User Authentication: Users can register and log in using JWT-based authentication.
+This project combines e-commerce functionality with a scalable architecture, making it ideal for local grocery stores looking to go digital.
 
-**Robust Task CRUD:** Create, read, update, and delete tasks with ease.
+✨ Features — GreenCart Grocery Delivery App 
 
-**Team Collaboration**: Assign tasks to specific users and track their progress.
+👤 Secure User Authentication
+Users can register and log in using JWT-based authentication to access personalized content securely.
 
-**Real-Time Updates**: Socket-based real-time updates ensure instant sync across users.
+🛒 Smart Shopping Experience
+Browse products by category, view best-selling items, and access detailed product descriptions.
 
-**Responsive Dashboard:** A visually appealing and responsive dashboard built with React and Tailwind CSS.
+Users can add items to the cart, manage cart quantity, and place orders seamlessly.
 
-**Admin Panel:** Admin users can manage user roles and oversee task statuses.
+🏠 Address & Checkout Management
+Before placing an order, users must add their delivery address.
 
-**Notifications System**: Stay informed with real-time in-app notifications.
+Offers dual payment modes: Cash on Delivery (COD) or Online Payment via Stripe.
 
-**Online Payment Integration:** Secure payment integration via Razorpay, Stripe, or another provider.
+📦 Order History & Status
+After checkout, users are redirected to the My Orders page to track and view their order history.
 
-**Shopping Cart & Address Management:** Users can add items to cart and update their delivery address.
+All user data (orders, addresses, cart) is securely stored in MongoDB Atlas.
 
-**Cloudinary & MongoDB Atlas Integration:** Efficient media storage using Cloudinary and scalable data management with MongoDB Atlas.
+🌐 Responsive & Interactive UI
+Built using React and styled with Tailwind CSS for a clean, responsive, and user-friendly interface.
 
-**Seller Dashboard:** Admin can manage product pricing, availability, and order history. New products can also be uploaded.
+Navigation across multiple pages using React Router for smooth user experience.
 
-**Webhook Integration:** Backend uses webhooks to validate and track the payment status in real-time.
+📸 Media & Cloud Integration
+Product images and other media are stored securely using Cloudinary.
+
+🧾 Seller/Admin Dashboard
+Dedicated Seller Dashboard allows admins to:
+
+Add new products with images, descriptions, and pricing.
+
+Update stock availability and manage existing product listings.
+
+Track orders placed by users in real-time.
+
+🔁 Webhook Integration for Payment Status
+Backend implements Stripe Webhooks to automatically verify and track payment statuses in real-time.
+
+Enhances reliability and prevents fraudulent or incomplete orders.
+
+🔐 JWT Authentication
+All protected routes (user & admin) are secured using JSON Web Tokens, ensuring data integrity and role-based access.
+
 
 🧰 Tech Stack
 
-Frontend - 
+🌐 Frontend
+React.js – A fast and efficient JavaScript library for building modern, interactive user interfaces.
 
-React: JavaScript library for building fast and interactive user interfaces.
+React Router DOM – Enables dynamic, client-side routing and navigation between pages.
 
-React Router: Handles dynamic routing in a React application.
+Axios – A lightweight HTTP client for making API requests from the frontend to the backend.
 
-Axios: Promise-based HTTP client for the browser and Node.js.
+Tailwind CSS – A utility-first CSS framework for rapidly building responsive and visually consistent UIs.
 
-Tailwind CSS: Utility-first CSS framework for rapid UI development.
+React Icons – A comprehensive icon library used to enhance the user interface with scalable vector icons.
 
-React Icons: Popular icon library to enhance UI.
+🔧 Backend
+Node.js – A JavaScript runtime environment that executes backend logic and handles server-side operations.
 
-Backend
+Express.js – A minimalist and flexible web framework for building RESTful APIs with robust routing and middleware support.
 
-Node.js: JavaScript runtime environment that executes server-side code.
+Mongoose – An Object Data Modeling (ODM) library for MongoDB, used to define schemas and interact with the database in a structured manner.
 
-Express.js: Minimal and flexible Node.js web application framework.
+JWT (JSON Web Tokens) – Used to implement secure user authentication and route protection.
 
-Mongoose: ODM library to interact with MongoDB in an object-oriented manner.
+bcrypt.js – A hashing library used to securely store and compare user passwords.
 
-JWT (JSON Web Token): For secure user authentication and session handling.
+Cloudinary – Cloud-based image and video management service used to upload, store, and deliver media assets efficiently.
 
-bcrypt: Password hashing library to securely store user credentials.
-
-Cloudinary: Cloud-based media management service for image and video storage.
-
-Razorpay: Payment gateway for accepting online payments securely.
-
-Database
-
-MongoDB Atlas: Cloud-hosted version of MongoDB with automatic scaling and backups.
+Stripe (with Webhooks) – Handles secure online payment processing and real-time payment verification through webhook events.
 
 Browse Categories and best seller - 
 ![Screenshot 2025-06-13 152136](https://github.com/user-attachments/assets/9fa23c54-ac22-4d34-a7e8-aa83e2583d78)
