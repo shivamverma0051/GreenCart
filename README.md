@@ -9,13 +9,16 @@ This project combines e-commerce functionality with a scalable architecture, mak
 ✨ **Features — GreenCart Grocery Delivery App** 
 
 **👤 Secure User Authentication**
+
 Users can register and log in using JWT-based authentication to access personalized content securely.
 
 **🛒 Smart Shopping Experience**
+
 Browse products by category, view best-selling items, and access detailed product descriptions.
 Users can add items to the cart, manage cart quantity, and place orders seamlessly.
 
 **🏠 Address & Checkout Management**
+
 Before placing an order, users must add their delivery address.
 Offers dual payment modes: Cash on Delivery (COD) or Online Payment via Stripe.
 
@@ -24,64 +27,83 @@ After checkout, users are redirected to the My Orders page to track and view the
 All user data (orders, addresses, cart) is securely stored in MongoDB Atlas.
 
 **🌐 Responsive & Interactive UI**
+
 Built using React and styled with Tailwind CSS for a clean, responsive, and user-friendly interface.
 Navigation across multiple pages using React Router for smooth user experience.
 
 **📸 Media & Cloud Integration**
+
 Product images and other media are stored securely using Cloudinary.
 
 **🧾 Seller/Admin Dashboard**
+
 Dedicated Seller Dashboard allows admins to:
 Add new products with images, descriptions, and pricing.
 Update stock availability and manage existing product listings.
 Track orders placed by users in real-time.
 
 **🔁 Webhook Integration for Payment Status**
+
 Backend implements Stripe Webhooks to automatically verify and track payment statuses in real-time.
 Enhances reliability and prevents fraudulent or incomplete orders.
 
 **🔐 JWT Authentication**
+
 All protected routes (user & admin) are secured using JSON Web Tokens, ensuring data integrity and role-based access.
 
 
 🧰 Tech Stack
 
 🌐 Frontend
+
 **React.js** 
+
 A fast and efficient JavaScript library for building modern, interactive user interfaces.
 
 **React Router DOM** 
+
 Enables dynamic, client-side routing and navigation between pages.
 
 **Axios** 
+
 A lightweight HTTP client for making API requests from the frontend to the backend.
 
-**Tailwind CSS **
+**Tailwind CSS**
+
 A utility-first CSS framework for rapidly building responsive and visually consistent UIs.
 
 **React Icons** 
+
 A comprehensive icon library used to enhance the user interface with scalable vector icons.
 
 🔧 Backend
+
 **Node.js** 
+
 A JavaScript runtime environment that executes backend logic and handles server-side operations.
 
 **Express.js** 
+
 A minimalist and flexible web framework for building RESTful APIs with robust routing and middleware support.
 
 **Mongoose** 
+
 An Object Data Modeling (ODM) library for MongoDB, used to define schemas and interact with the database in a structured manner.
 
 **JWT (JSON Web Tokens)** 
+
 Used to implement secure user authentication and route protection.
 
 **bcrypt.js** 
+
 A hashing library used to securely store and compare user passwords.
 
-**Cloudinary **
+**Cloudinary**
+
 Cloud-based image and video management service used to upload, store, and deliver media assets efficiently.
 
 **Stripe (with Webhooks)** 
+
 Handles secure online payment processing and real-time payment verification through webhook events.
 
 **Browse Categories and best seller** 
